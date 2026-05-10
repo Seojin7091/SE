@@ -7,6 +7,14 @@ Use case description: 설문 상세정보 조회
 **Alternative Courses**
 *None.
 
+Use case description: 설문 상세정보 조회 mk2
+
+| Actor action | System response |
+| --- | --- |
+| 1. 회원이 특정 설문을 선택한다. | 2. 선택된 설문의 상세 정보(제목, 설명, 문항, 응답 항목, 시작 시각, 마감 시각 등)와 진행 상태에 따른 응답 버튼을 화면에 제공한다. |
+**Alternative Courses**
+*None.
+
 
 Use case description: 설문 리스트 조회
 
