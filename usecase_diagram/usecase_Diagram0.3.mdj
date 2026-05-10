@@ -98,7 +98,7 @@
 											"top": 110,
 											"width": 63,
 											"height": 13,
-											"text": "사용자"
+											"text": "비회원"
 										},
 										{
 											"_type": "LabelView",
@@ -1153,7 +1153,7 @@
 											"top": 122.5,
 											"width": 97,
 											"height": 13,
-											"text": "탈퇴"
+											"text": "회원 탈퇴"
 										},
 										{
 											"_type": "LabelView",
@@ -2837,9 +2837,9 @@
 											"parentStyle": true,
 											"left": 411.5,
 											"top": 770.5,
-											"width": 97,
+											"width": 98,
 											"height": 13,
-											"text": "설문 조회"
+											"text": "설문 리스트 조회"
 										},
 										{
 											"_type": "LabelView",
@@ -2875,7 +2875,7 @@
 									"parentStyle": true,
 									"left": 406.5,
 									"top": 763.5,
-									"width": 107,
+									"width": 108.2236328125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGeBW8/Ej+4euQ="
@@ -2981,7 +2981,7 @@
 							"containerChangeable": true,
 							"left": 384,
 							"top": 744,
-							"width": 152,
+							"width": 153,
 							"height": 64,
 							"nameCompartment": {
 								"$ref": "AAAAAAGeBW8/Ej+3kP0="
@@ -4075,7 +4075,7 @@
 								"$ref": "AAAAAAGeBXBYB2ddhx0="
 							},
 							"lineStyle": 1,
-							"points": "687:724;537:758",
+							"points": "687:724;538:758",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGeBXB7FHQI4nc="
@@ -4109,7 +4109,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 611,
+									"left": 610,
 									"top": 794,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -4154,7 +4154,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 612,
+									"left": 613,
 									"top": 765,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -4174,7 +4174,7 @@
 								"$ref": "AAAAAAGeBXBi8mxAMI0="
 							},
 							"lineStyle": 1,
-							"points": "687:792;537:781",
+							"points": "687:792;538:781",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGeBXCGtHiZdOQ="
@@ -7979,7 +7979,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGeBWKo2BI7Kvk="
 					},
-					"name": "사용자",
+					"name": "비회원",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
@@ -8422,7 +8422,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGeBWKo2BI7Kvk="
 					},
-					"name": "탈퇴"
+					"name": "회원 탈퇴"
 				},
 				{
 					"_type": "UMLUseCase",
@@ -8469,7 +8469,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGeBWKo2BI7Kvk="
 					},
-					"name": "설문 조회"
+					"name": "설문 리스트 조회"
 				},
 				{
 					"_type": "UMLUseCase",
