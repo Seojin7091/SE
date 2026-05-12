@@ -1,3 +1,15 @@
+#팀 코드
+26512
+
+#팀내 역할 분담
+
+| 이름 | 팀내 역할 분담|
+| --- | --- |
+| 손진서 | 로그인, 회원 탈퇴, 설문 등록 Use Case의 requirement_list, UI , use_case_description 작성 및 공동 Use Case Diagram 작업 |
+| 박제언 | 설문 응답 통계 정보 조회, 설문 상세정보 조회, 설문 리스트 조회 Use Case의 requirement_list, UI , use_case_description 작성 및 공동 Use Case Diagram 작업|
+| 조서영 | 설문 응답, 응답한 설문 수정, 응답한 설문 조회 Use Case의 requirement_list, UI , use_case_description 작성 및 공동 Use Case Diagram 작업|
+| 박우진 | 회원 가입, 로그아웃, 설문 검색 Use Case의 requirement_list, UI , use_case_description 작성 및 공동 Use Case Diagram 작업|
+
 | No. | Requirement | Usecase |
 | --- | --- | --- |
 | 1 | 비회원은 ID, 비밀번호, 전화번호, 이름, 이메일 등을 입력하여 회원 가입할 수 있다. | 회원 가입 |
@@ -15,14 +27,3 @@
 | 13 | 회원은 현재 진행 중인 설문에 한해 자신이 제출한 응답을 수정할 수 있어야 하고, 설문 수정 화면에는 가장 최근에 수정한 날짜가 출력되어 있으며 수정 버튼을 눌러서 완료한다. | 응답한 설문 수정 |
 | 14 | 회원은 현재 진행 중인 설문에 한해 응답을 취소할 수 있어야 한다. | 응답한 설문 취소 |
 | 15 | 회원은 설문 상태(진행 중 / 진행 예정 / 종료됨)와 검색 키워드를 이용하여 원하는 설문을 검색할 수 있다. | 설문 검색 |
-
-
-
-팀내 역할 분담
-
-| 이름 | 팀내 역할 분담|
-| --- | --- |
-| 손진서 | usecase 작성 및 수정, 로그인/회원 탈퇴/설문 등록의 UI,usecase_description,requirement_list 작성|
-| 박제언 | usecase 작성 및 수정, 설문 응답 통계 정보 조회/설문 상세 정보 조회/설문 리스트 조회의 UI,usecase_description,requirement_list 작성|
-| 조서영 | 설문 응답/응답한 설문 수정/응답한 설문 조회의 UI,usecase_description,requirement_list 작성|
-| 박우진 | 회원가입/로그아웃/설문 검색의 UI,usecase_description,requirement_list 작성|
